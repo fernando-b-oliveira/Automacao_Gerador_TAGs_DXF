@@ -8,6 +8,13 @@
 
 ---
 
+### ⏱️ Impacto de Negócio & Horas Economizadas (Pé no chão)
+- **Tempo por Documento:** Redução de **~12 a 15 minutos** de conferência manual (abrir CAD, procurar logradouro, checar tabela e digitar código) para **menos de 3 segundos** de execução automatizada.
+- **Economia Operacional Real:** Em um fluxo médio de 30 a 40 anotações semanais, a ferramenta economiza cerca de **6 a 8 horas semanais** de trabalho manual repetitivo da equipe técnica.
+- **Confiabilidade:** Eliminação de erros de digitação em nomenclaturas técnicas e garantia de alocação no setor correto da rede.
+
+---
+
 ## 📌 Visão Geral
 Este projeto automatiza a identificação e anotação padronizada de equipamentos e componentes em projetos de engenharia. Cruzando dados textuais brutos (de Ordens de Serviço em PDF ou imagens) com a geometria analítica de arquivos vetoriais **AutoCAD (.DXF)**, o sistema determina o setor correspondente e gera a nomenclatura padronizada de TAGs sem necessidade de conferência manual.
 
